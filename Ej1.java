@@ -4,6 +4,7 @@ public class Ej1 {
     public static void main(String[] args) {
          Scanner scanner=new Scanner(System.in);
          System.out.println("IMPRIMA UN NUMERO");
+        
          int num1=scanner.nextInt();
          System.out.println(" IMPRIMA OTRO NUMERO");
          int num2=scanner.nextInt();
